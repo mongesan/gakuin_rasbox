@@ -8,7 +8,6 @@
 基本プログラムはPythonで書くほか、データの利用にAPI等を利用する予定です。  
 Python 3.7  
 試験用1,2号機...Raspberry Pi Model B  
-試験用3,4号機...Raspberry Pi Zero HW  
 試験用3,4号機...Raspberry Pi Zero WH  
 百葉箱箱は2機運用の予定です。  
 
